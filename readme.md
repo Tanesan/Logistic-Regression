@@ -42,7 +42,8 @@ P(X1, X2,,,,,,) = f(X1) * f(X2)……..
 <img width="427" alt="スクリーンショット 2021-06-19 10 48 29" src="https://user-images.githubusercontent.com/54165015/122627653-e43c9680-d0eb-11eb-8600-2121e919e9ba.png">  
 ただ、平均、標準偏差を求めたいので、左辺を変更する。
 <img width="427" alt="スクリーンショット 2021-06-19 10 49 59" src="https://user-images.githubusercontent.com/54165015/122627686-19e17f80-d0ec-11eb-962f-f102e81d66e7.png">  
-これは正規分布のものであるため、ロジスティック回帰Ver.でする
+これは正規分布のものであるため、ロジスティック回帰Ver.でする  
+
 ## ロジスティック関数の重みの学習
 
 
